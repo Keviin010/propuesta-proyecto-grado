@@ -1,10 +1,9 @@
-<!-- Fondo y estilo -->
-<div style="background-color:#f5f5f5; padding:20px; border-radius:10px; text-align:center;">
+
 
 # Habitly — Control simple de hábitos de salud
 
 
----
+
 **Autor:** Kevin Dair Royo Cuesta
 
 
