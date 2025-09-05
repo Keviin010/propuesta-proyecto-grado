@@ -3,14 +3,16 @@
 
 # Habitly — Control simple de hábitos de salud
 
-**Autor:** ##Kevin Dair Royo Cuesta--
+--
+
+**Autor:** Kevin Dair Royo Cuesta
 
 
 
 ## Objetivo
 Diseñar y desarrollar una aplicación móvil sencilla que permita a las personas registrar, consultar y mantener hábitos saludables básicos mediante recordatorios, entradas rápidas y resúmenes visuales.
 
----
+--
 ## Problema identificado:
 Muchas personas desean mejorar su bienestar diario (beber suficiente agua, dormir mejor, mantenerse activas y registrar su estado de ánimo), pero terminan olvidando sus metas o pierden el hábito rápidamente. Las aplicaciones actuales suelen ser complejas, piden registros extensos o requieren configuraciones avanzadas que desmotivan al usuario. Falta una solución simple, visual y fácil de usar que permita seguimiento rápido y recordatorios sin necesidad de conexión o configuraciones complicadas.
 
