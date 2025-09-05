@@ -5,7 +5,7 @@
 
 
 ---
-**Autor:** #Kevin Dair Royo Cuesta
+**Autor:** Kevin Dair Royo Cuesta
 ---
 
 
