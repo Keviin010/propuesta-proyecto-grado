@@ -6,7 +6,7 @@
 
 ---
 **Autor:** Kevin Dair Royo Cuesta
----
+
 
 
 ## Objetivo
@@ -17,7 +17,7 @@ Diseñar y desarrollar una aplicación móvil sencilla que permita a las persona
 
 Diseñar y desarrollar una aplicación móvil sencilla que permita a las personas registrar, consultar y mantener hábitos saludables básicos mediante recordatorios, entradas rápidas y resúmenes visuales.
 
----
+
 
 ## Objetivos específicos:
 •	Permitir el registro y actualización diaria de hábitos básicos: vasos de agua, horas de sueño, pasos (mock inicial) y estado de ánimo.
