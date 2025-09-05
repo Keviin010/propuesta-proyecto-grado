@@ -33,7 +33,7 @@ Muchas personas desean mejorar su bienestar diario (beber suficiente agua, dormi
 
 
 
-## Funcionalidades principales
+# Funcionalidades principales
 - Registro diario de hábitos: vasos de agua, horas de sueño, pasos (mock inicial) y estado de ánimo.  
 - Recordatorios push configurables para hábitos.  
 - Historial semanal visual con gráficos simples por hábito.  
@@ -42,14 +42,14 @@ Muchas personas desean mejorar su bienestar diario (beber suficiente agua, dormi
 
 
 
-## Tecnologías
+# Tecnologías
 - Mobile: React Native + Expo  
 - Backend: Node.js + Express (API REST)  
 - Base de datos: MySQL  
 
 
 
-## Metodología de desarrollo
+# Metodología de desarrollo
 1. Análisis: Levantamiento de requisitos.  
 2. Diseño: Diagramas UML, diseño de base de datos.  
 3. Implementación: Desarrollo backend, frontend y conexión a la BD.  
