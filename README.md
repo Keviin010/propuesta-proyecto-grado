@@ -45,7 +45,7 @@ Muchas personas desean mejorar su bienestar diario (beber suficiente agua, dormi
 ## Impacto esperado:
 Con Habitly se espera aumentar la adherencia a hábitos simples de salud mediante recordatorios y una interfaz minimalista. Al reducir fricción y complejidad, el usuario puede mantener rutinas de hidratación, sueño y actividad, mejorando bienestar general y prevención de problemas asociados (deshidratación, fatiga, sedentarismo).
 
-
+--
 Usuarios principales:
 
 •	Personas jóvenes que buscan mejorar su productividad y salud.
