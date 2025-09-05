@@ -6,7 +6,7 @@
 
 **Autor:** Kevin Dair Royo Cuesta
 
---
+-
 
 
 ### Objetivo:
@@ -16,7 +16,7 @@ Diseñar y desarrollar una aplicación móvil sencilla que permita a las persona
 ### Objetivo general:
 Diseñar y desarrollar una aplicación móvil sencilla que permita a las personas registrar, consultar y mantener hábitos saludables básicos mediante recordatorios, entradas rápidas y resúmenes visuales.
 
----
+-
 
 ### Objetivos específicos
 •	Permitir el registro y actualización diaria de hábitos básicos: vasos de agua, horas de sueño, pasos (mock inicial) y estado de ánimo.
@@ -31,13 +31,13 @@ Diseñar y desarrollar una aplicación móvil sencilla que permita a las persona
 
 •	Guardar datos localmente para garantizar simplicidad y privacidad (sin servidor requerido en MVP).
 
----
+-
 
 ### Problema identificado:
 Muchas personas desean mejorar su bienestar diario (beber suficiente agua, dormir mejor, mantenerse activas y registrar su estado de ánimo), pero terminan olvidando sus metas o pierden el hábito rápidamente. Las aplicaciones actuales suelen ser complejas, piden registros extensos o requieren configuraciones avanzadas que desmotivan al usuario. Falta una solución simple, visual y fácil de usar que permita seguimiento rápido y recordatorios sin necesidad de conexión o configuraciones complicadas.
 
 
-----
+-
 
 ### Funcionalidades principales:
 - Registro diario de hábitos: vasos de agua, horas de sueño, pasos (mock inicial) y estado de ánimo.  
@@ -53,7 +53,7 @@ Muchas personas desean mejorar su bienestar diario (beber suficiente agua, dormi
 - Backend: Node.js + Express (API REST)  
 - Base de datos: MySQL  
 
----
+-
 
 ### Metodología de desarrollo
 
@@ -67,12 +67,12 @@ Muchas personas desean mejorar su bienestar diario (beber suficiente agua, dormi
    
 5. Documentación y despliegue en GitHub.
 
----
+-
 
 ### Impacto esperado:
 Con Habitly se espera aumentar la adherencia a hábitos simples de salud mediante recordatorios y una interfaz minimalista. Al reducir fricción y complejidad, el usuario puede mantener rutinas de hidratación, sueño y actividad, mejorando bienestar general y prevención de problemas asociados (deshidratación, fatiga, sedentarismo).
 
----
+-
 
 ### Usuarios principales:
 
