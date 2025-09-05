@@ -4,9 +4,9 @@
 # Habitly — Control simple de hábitos de salud
 
 
-
-**Autor:** Kevin Dair Royo Cuesta
-
+---
+**Autor:** #Kevin Dair Royo Cuesta
+---
 
 
 ## Objetivo
