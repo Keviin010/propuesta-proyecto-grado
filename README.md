@@ -47,4 +47,11 @@ Optimizar la toma de pedidos en restaurantes mediante un sistema simple, ágil y
 
 ## Usuarios objetivo  
 - Clientes de restaurantes o puestos de comida.  
-- Administradores o encargados del establecimiento.  
+- Administradores o encargados del establecimiento.
+
+## Descargar diagrama pdf
+[Diagrama pdf](Ordernow.pdf)
+
+### Diagrama del Proyecto
+---
+(sistema.jpg)
