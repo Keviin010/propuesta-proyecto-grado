@@ -54,4 +54,4 @@ Optimizar la toma de pedidos en restaurantes mediante un sistema simple, ágil y
 
 ### Diagrama del Proyecto
 ---
-(sistema.jpg)
+[](sistema.jpg)
