@@ -53,9 +53,9 @@ Optimizar la toma de pedidos en restaurantes mediante un sistema simple, ágil y
 [Diagrama pdf](Ordernow.pdf)
 
 ### Diagrama del Proyecto
----
 [diagrama](sistema.jpg)
----
+
+--
 
 # Historias de Usuario
 
