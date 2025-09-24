@@ -55,3 +55,60 @@ Optimizar la toma de pedidos en restaurantes mediante un sistema simple, ágil y
 ### Diagrama del Proyecto
 ---
 [diagrama](sistema.jpg)
+---
+
+# Historias de Usuario
+
+## Crear y enviar orden
+Como cliente, quiero seleccionar productos del catálogo y confirmar una orden, para que el restaurante la reciba.
+
+*Criterios de aceptación:*
+- Catálogo visible con productos disponibles.
+- Carrito para agregar o quitar productos.
+- Confirmación y registro de la orden en la base de datos.
+- Estado inicial de la orden: "En proceso".
+
+---
+
+## Gestión de productos
+Como administrador, quiero agregar, editar o eliminar productos, para mantener actualizado el menú.
+
+*Criterios de aceptación:*
+- Formulario con nombre, precio, stock e imagen.
+- Validación de campos antes de guardar.
+- Cambios reflejados en el catálogo.
+
+---
+
+## Control de stock
+Como administrador, quiero actualizar el stock de cada producto, para que los clientes vean solo lo disponible.
+
+*Criterios de aceptación:*
+- Modificación de stock en el panel.
+- Bloqueo de pedidos si no hay stock.
+- Catálogo actualizado en tiempo real.
+
+---
+
+## Visualización de órdenes
+Como administrador, quiero ver todas las órdenes en una lista, para gestionarlas fácilmente.
+
+*Criterios de aceptación:*
+- Listado de órdenes con estado (en proceso, completada, lista para recoger).
+- Posibilidad de cambiar el estado desde el panel.
+- Filtros por estado.
+
+---
+
+## Confirmación de pedido
+Como cliente, quiero recibir un mensaje al enviar mi orden, para estar seguro de que fue registrada.
+
+*Criterios de aceptación:*
+- Mensaje de confirmación en pantalla con número de orden.
+- Resumen de productos y precio total.
+
+## Prioridad
+Alta
+
+## Estimación
+5 puntos de historia
