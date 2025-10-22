@@ -5,8 +5,7 @@
 - Carrito de compras para agregar o quitar productos.  
 - Creación y registro de órdenes con estado inicial "En proceso".  
 - Panel administrador para CRUD de productos y control de stock.  
-- Listado de órdenes con cambio de estado ("En proceso", "Lista", "Completada").  
-- Confirmación visual del pedido con número de orden.
+
 
 ---
 
