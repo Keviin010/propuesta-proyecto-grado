@@ -12,7 +12,7 @@
 
 ## Casos de uso identificados antes de la construcción
 
-###1. Crear y enviar orden
+1. Crear y enviar orden
 **Actor:** Cliente  
 **Descripción:** El cliente selecciona productos y confirma la orden.  
 **Criterios de aceptación:**  
@@ -22,7 +22,7 @@
 
 ---
 
-###2. Gestión de productos
+2. Gestión de productos
 **Actor:** Administrador  
 **Descripción:** El administrador agrega, edita o elimina productos.  
 **Criterios de aceptación:**  
@@ -31,7 +31,7 @@
 
 ---
 
-###3. Control de stock y órdenes
+3. Control de stock y órdenes
 **Actor:** Administrador  
 **Descripción:** El administrador actualiza el stock y cambia el estado de las órdenes.  
 **Criterios de aceptación:**  
