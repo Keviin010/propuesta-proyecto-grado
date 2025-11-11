@@ -154,9 +154,8 @@ Cada funcionalidad debe incluir pruebas que verifiquen sus criterios:
 ## 10. Priorización y estimación
 - **Prioridad alta:** Catálogo, carrito, checkout, control de stock y confirmación.  
 - **Prioridad media:** Panel admin completo, generación de reportes/estadísticas.  
-- **Estimación inicial:** Flujo de creación y envío de orden — 5 puntos de historia (valor referencial).
+- **Estimación inicial:** Flujo de creación y envío de orden — 5 puntos de historia.
 
 ---
 
-### Sugerencia de commit para GitHub
 
